@@ -4,7 +4,7 @@
 
 **CopyBatchTag.py** to create box using the latest batch tag
 
-Please make sure to change the center path to your own path:
+Please make sure changing the center path to your own path:
 
 
 
