@@ -19,3 +19,5 @@
 /data/
 /library/
 /.idea/Utils_Add_Batch_Tag.iml
+!/library/Batch_Input/
+!/library/Batch_Output/
