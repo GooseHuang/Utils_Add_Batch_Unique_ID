@@ -1,4 +1,4 @@
-# Utils_Add_Batch_Unique_ID
+# Utils Add Batch Unique ID
 
 **AddBatchTag.py** to create new batch tag
 
